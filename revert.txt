@@ -1,0 +1,2 @@
+git revert is used to record some new commits to reverse the effect of some earlier commits (often only a faulty one). 
+
